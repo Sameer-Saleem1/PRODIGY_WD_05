@@ -9,7 +9,7 @@ This repository contains the completed task assigned to me by Prodigy InfoTech a
 ### Task Details
 - **Task Name:** Weather App with Attractive UI
 - **Assigned By:** Prodigy InfoTech
-- **Duration:** [Specify the duration]
+- **Duration:** 01-Feb-2024
 
 ### Features Implemented
 1. Real-time weather information display for a specified location.
@@ -19,8 +19,8 @@ This repository contains the completed task assigned to me by Prodigy InfoTech a
 5. Dynamic background and icon changes based on weather conditions.
 
 ### Technologies Used
-- HTML
-- CSS
+- HTML5
+- CSS3
 - JavaScript
 - Fetch API
 - OpenWeatherMap API
@@ -31,8 +31,6 @@ To use the Weather app, simply open the `index.html` file in a web browser. Ente
 ### Acknowledgments
 I would like to extend my thanks to Prodigy InfoTech for providing me with this internship opportunity and assigning me the task of creating a Weather app with an attractive UI. It has been a rewarding experience, and I am grateful for the chance to develop my skills in web development and API integration.
 
-Feel free to explore the project, provide feedback, or use it as a reference for your own projects. If you have any questions or suggestions, please don't hesitate to contact me at [your email].
+Feel free to explore the project, provide feedback, or use it as a reference for your own projects. If you have any questions or suggestions, please don't hesitate to contact me at sameersaleemq75@gmail.com
 
 Thank you!
-
-[Your Name]
