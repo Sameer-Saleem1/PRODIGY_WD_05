@@ -9,7 +9,7 @@ This repository contains the completed task assigned to me by Prodigy InfoTech a
 ### Task Details
 - **Task Name:** Weather App with Attractive UI
 - **Assigned By:** Prodigy InfoTech
-- **Duration:** 01-Feb-2024
+- **Duration:** 01-Feb-2024 to 29-Feb-2024
 
 ### Features Implemented
 1. Real-time weather information display for a specified location.
