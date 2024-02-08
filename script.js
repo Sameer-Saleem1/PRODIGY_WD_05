@@ -14,7 +14,6 @@ async function weather(city) {
     document.querySelector(".weather").style.display = "none";
   } else {
     if (res) var data = await res.json();
-    console.log(data);
 
     document.querySelector(".city").innerHTML = data.name;
     document.querySelector(".temp").innerText =
